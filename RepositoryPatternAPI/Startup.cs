@@ -28,7 +28,7 @@ namespace RepositoryPatternAPI
         {
             services.ConfigureCors();
             services.ConfigureLogService();
-
+            services.ConfigureSQLContext(Configuration);
             services.AddControllers();
         }
 
@@ -43,6 +43,8 @@ namespace RepositoryPatternAPI
             app.UseHttpsRedirection();
 
             app.UseRouting();
+
+            app.UseCors("CorsPolicy");
 
             app.UseAuthorization();
 
