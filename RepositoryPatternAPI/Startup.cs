@@ -27,6 +27,7 @@ namespace RepositoryPatternAPI
         public void ConfigureServices(IServiceCollection services)
         {
             services.ConfigureCors();
+            services.ConfigureLogService();
 
             services.AddControllers();
         }
