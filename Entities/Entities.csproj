@@ -9,6 +9,12 @@
     <Compile Remove="Migrations\20201226122739_InitialCreate.Designer.cs" />
     <Compile Remove="Migrations\20201226124212_InitialCreate.cs" />
     <Compile Remove="Migrations\20201226124212_InitialCreate.Designer.cs" />
+    <Compile Remove="Migrations\20201231160110_SeedDataAdded.cs" />
+    <Compile Remove="Migrations\20201231160110_SeedDataAdded.Designer.cs" />
+    <Compile Remove="Migrations\20201231161335_OwnerSeedDataAdded.cs" />
+    <Compile Remove="Migrations\20201231161335_OwnerSeedDataAdded.Designer.cs" />
+    <Compile Remove="Migrations\20201231162558_AccountSeedDataAdded.cs" />
+    <Compile Remove="Migrations\20201231162558_AccountSeedDataAdded.Designer.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -18,6 +24,7 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
+    <PackageReference Include="Microsoft.Extensions.Hosting.Abstractions" Version="3.0.0" />
   </ItemGroup>
 
 </Project>

@@ -1,4 +1,5 @@
 ﻿using Entities.Models;
+using Entities.SeedData;
 using JetBrains.Annotations;
 using Microsoft.EntityFrameworkCore;
 using System;
@@ -15,5 +16,12 @@ namespace Entities
 
         public DbSet<Owner> Owners { get; set; }
         public DbSet<Account> Accounts { get; set; }
+    
+        protected override void OnModelCreating(ModelBuilder builder)
+        {
+            builder.ApplyConfiguration(new OwnerSeedData());
+            builder.ApplyConfiguration(new AccountSeedData());
+        }
+    
     }
 }
