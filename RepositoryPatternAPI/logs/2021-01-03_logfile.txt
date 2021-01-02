@@ -1,0 +1,30 @@
+2021-01-03 03:20:22.6169 INFO Here is info message from the controller.
+2021-01-03 03:20:22.7346 DEBUG Here is debug message from the controller.
+2021-01-03 03:20:22.7346 WARN Here is warn message from the controller.
+2021-01-03 03:20:22.7449 ERROR Here is error message from the controller.
+2021-01-03 03:23:02.0232 INFO Here is info message from the controller.
+2021-01-03 03:23:02.1026 DEBUG Here is debug message from the controller.
+2021-01-03 03:23:02.1170 WARN Here is warn message from the controller.
+2021-01-03 03:23:02.1170 ERROR Here is error message from the controller.
+2021-01-03 03:52:46.5081 INFO Here is info message from the controller.
+2021-01-03 03:52:46.5081 INFO Here is info message from the controller.
+2021-01-03 03:52:46.5863 DEBUG Here is debug message from the controller.
+2021-01-03 03:52:46.5863 DEBUG Here is debug message from the controller.
+2021-01-03 03:52:46.5863 WARN Here is warn message from the controller.
+2021-01-03 03:52:46.5863 WARN Here is warn message from the controller.
+2021-01-03 03:52:46.5863 ERROR Here is error message from the controller.
+2021-01-03 03:52:46.5863 ERROR Here is error message from the controller.
+2021-01-03 03:53:06.8043 INFO Here is info message from the controller.
+2021-01-03 03:53:06.8043 DEBUG Here is debug message from the controller.
+2021-01-03 03:53:06.8043 WARN Here is warn message from the controller.
+2021-01-03 03:53:06.8043 ERROR Here is error message from the controller.
+2021-01-03 04:07:42.2147 INFO Returned all owners from database.
+2021-01-03 04:21:49.6833 INFO Here is info message from the controller.
+2021-01-03 04:21:49.7575 DEBUG Here is debug message from the controller.
+2021-01-03 04:21:49.7575 WARN Here is warn message from the controller.
+2021-01-03 04:21:49.7745 ERROR Here is error message from the controller.
+2021-01-03 04:28:57.6800 INFO Returned all owners from database.
+2021-01-03 04:40:15.1972 INFO Returned all owners from database.
+2021-01-03 04:40:54.9150 INFO Returned owner with id: 0acbed4a-922a-4848-80e0-1f20e8f74d79
+2021-01-03 05:16:05.3350 INFO Returned owner with id: 0acbed4a-922a-4848-80e0-1f20e8f74d79
+2021-01-03 05:16:10.4636 INFO Returned all owners from database.
