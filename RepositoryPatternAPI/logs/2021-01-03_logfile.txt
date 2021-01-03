@@ -28,3 +28,91 @@
 2021-01-03 04:40:54.9150 INFO Returned owner with id: 0acbed4a-922a-4848-80e0-1f20e8f74d79
 2021-01-03 05:16:05.3350 INFO Returned owner with id: 0acbed4a-922a-4848-80e0-1f20e8f74d79
 2021-01-03 05:16:10.4636 INFO Returned all owners from database.
+2021-01-03 17:25:56.9615 INFO Here is info message from the controller.
+2021-01-03 17:25:57.0613 DEBUG Here is debug message from the controller.
+2021-01-03 17:25:57.0613 WARN Here is warn message from the controller.
+2021-01-03 17:25:57.0613 ERROR Here is error message from the controller.
+2021-01-03 17:26:12.0658 INFO Returned all owners from database.
+2021-01-03 17:27:44.2428 INFO Returned all owners from database.
+2021-01-03 17:35:46.4934 INFO Returned all owners from database.
+2021-01-03 17:35:51.2819 INFO Returned owner with id: 0acbed4a-922a-4848-80e0-1f20e8f74d79
+2021-01-03 17:36:39.0256 INFO Returned owner with id: 0acbed4a-922a-4848-80e0-1f20e8f74d79
+2021-01-03 18:08:11.0584 INFO Returned all owners from database.
+2021-01-03 18:25:58.1325 INFO Here is info message from the controller.
+2021-01-03 18:25:58.2199 DEBUG Here is debug message from the controller.
+2021-01-03 18:25:58.2199 WARN Here is warn message from the controller.
+2021-01-03 18:25:58.2266 ERROR Here is error message from the controller.
+2021-01-03 18:28:06.9823 INFO Returned owner with id: e7d6dc02-190b-4e38-9899-08d8afe0389c
+2021-01-03 18:32:14.3999 INFO Here is info message from the controller.
+2021-01-03 18:32:14.4617 DEBUG Here is debug message from the controller.
+2021-01-03 18:32:14.4811 WARN Here is warn message from the controller.
+2021-01-03 18:32:14.4932 ERROR Here is error message from the controller.
+2021-01-03 18:32:39.4450 INFO Returned owner with id: 0acbed4a-922a-4848-80e0-1f20e8f74d79
+2021-01-03 18:33:21.6181 INFO Returned owner with id: 0acbed4a-922a-4848-80e0-1f20e8f74d79
+2021-01-03 18:34:46.3206 INFO Here is info message from the controller.
+2021-01-03 18:34:46.4063 DEBUG Here is debug message from the controller.
+2021-01-03 18:34:46.4063 WARN Here is warn message from the controller.
+2021-01-03 18:34:46.4063 ERROR Here is error message from the controller.
+2021-01-03 18:35:02.6845 INFO Returned owner with id: 0acbed4a-922a-4848-80e0-1f20e8f74d79
+2021-01-03 18:35:39.5762 INFO Returned owner with id: e7d6dc02-190b-4e38-9899-08d8afe0389c
+2021-01-03 18:41:21.8986 INFO Here is info message from the controller.
+2021-01-03 18:41:21.9960 DEBUG Here is debug message from the controller.
+2021-01-03 18:41:21.9960 WARN Here is warn message from the controller.
+2021-01-03 18:41:21.9960 ERROR Here is error message from the controller.
+2021-01-03 18:41:48.1634 INFO Returned owner with id: 0acbed4a-922a-4848-80e0-1f20e8f74d79
+2021-01-03 18:42:08.8129 INFO Returned owner with id: e7d6dc02-190b-4e38-9899-08d8afe0389c
+2021-01-03 18:45:45.5534 INFO Returned owner with id: e7d6dc02-190b-4e38-9899-08d8afe0389c
+2021-01-03 18:50:07.1333 INFO Here is info message from the controller.
+2021-01-03 18:50:07.2125 DEBUG Here is debug message from the controller.
+2021-01-03 18:50:07.2125 WARN Here is warn message from the controller.
+2021-01-03 18:50:07.2125 ERROR Here is error message from the controller.
+2021-01-03 18:50:23.9340 INFO Returned owner with id: e7d6dc02-190b-4e38-9899-08d8afe0389c
+2021-01-03 18:50:35.3724 INFO Returned all owners from database.
+2021-01-03 18:54:50.5476 INFO Here is info message from the controller.
+2021-01-03 18:54:50.6055 DEBUG Here is debug message from the controller.
+2021-01-03 18:54:50.6055 WARN Here is warn message from the controller.
+2021-01-03 18:54:50.6055 ERROR Here is error message from the controller.
+2021-01-03 19:05:29.5570 INFO Here is info message from the controller.
+2021-01-03 19:05:29.6028 DEBUG Here is debug message from the controller.
+2021-01-03 19:05:29.6028 WARN Here is warn message from the controller.
+2021-01-03 19:05:29.6028 ERROR Here is error message from the controller.
+2021-01-03 19:07:42.5182 INFO Here is info message from the controller.
+2021-01-03 19:07:42.6068 DEBUG Here is debug message from the controller.
+2021-01-03 19:07:42.6068 WARN Here is warn message from the controller.
+2021-01-03 19:07:42.6068 ERROR Here is error message from the controller.
+2021-01-03 19:10:18.7119 INFO Here is info message from the controller.
+2021-01-03 19:10:18.7599 DEBUG Here is debug message from the controller.
+2021-01-03 19:10:18.7599 WARN Here is warn message from the controller.
+2021-01-03 19:10:18.7599 ERROR Here is error message from the controller.
+2021-01-03 19:12:22.5233 INFO Here is info message from the controller.
+2021-01-03 19:12:22.5779 DEBUG Here is debug message from the controller.
+2021-01-03 19:12:22.5779 WARN Here is warn message from the controller.
+2021-01-03 19:12:22.5779 ERROR Here is error message from the controller.
+2021-01-03 19:13:48.6169 INFO Here is info message from the controller.
+2021-01-03 19:13:48.6960 DEBUG Here is debug message from the controller.
+2021-01-03 19:13:48.6960 WARN Here is warn message from the controller.
+2021-01-03 19:13:48.6960 ERROR Here is error message from the controller.
+2021-01-03 19:16:08.2462 INFO Here is info message from the controller.
+2021-01-03 19:16:08.2915 DEBUG Here is debug message from the controller.
+2021-01-03 19:16:08.2915 WARN Here is warn message from the controller.
+2021-01-03 19:16:08.3061 ERROR Here is error message from the controller.
+2021-01-03 19:18:24.6552 ERROR Something went wrong inside UpdateOwner action: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+OwnerForUpdateViewModel -> Owner
+Entities.ViewModels.OwnerForUpdateViewModel -> Entities.Models.Owner
+2021-01-03 19:22:13.2196 INFO Here is info message from the controller.
+2021-01-03 19:22:13.2803 DEBUG Here is debug message from the controller.
+2021-01-03 19:22:13.2803 WARN Here is warn message from the controller.
+2021-01-03 19:22:13.2803 ERROR Here is error message from the controller.
+2021-01-03 19:24:45.9425 INFO Returned owner with id: e7d6dc02-190b-4e38-9899-08d8afe0389c
+2021-01-03 19:24:57.9760 INFO Returned all owners from database.
+2021-01-03 19:32:44.0708 INFO Here is info message from the controller.
+2021-01-03 19:32:44.1201 DEBUG Here is debug message from the controller.
+2021-01-03 19:32:44.1324 WARN Here is warn message from the controller.
+2021-01-03 19:32:44.1324 ERROR Here is error message from the controller.
+2021-01-03 19:32:50.2287 INFO Returned all owners from database.
+2021-01-03 19:33:29.6235 INFO Returned all owners from database.
+2021-01-03 19:34:17.3948 INFO Returned owner with id: 2e11a8a7-ac21-4b9a-854f-57750e2c2091
+2021-01-03 19:35:17.9966 INFO Returned owner with id: 2e11a8a7-ac21-4b9a-854f-57750e2c2091
+2021-01-03 19:35:23.3695 INFO Returned all owners from database.

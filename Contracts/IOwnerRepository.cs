@@ -11,5 +11,7 @@ namespace Contracts
         Task<IEnumerable<Owner>> GetAllOwnersAsync();
         Task<Owner> GetOwnerByIdAsync(Guid id);
         void CreateOwner(Owner owner);
+        void updateOwner(Owner owner);
+        void DeleteOwner(Owner owner);
     }
 }

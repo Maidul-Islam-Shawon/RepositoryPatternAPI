@@ -14,6 +14,7 @@ namespace RepositoryPatternAPI.DTO_ViewModel
         {
             CreateMap<Owner, OwnerViewModel>();
             CreateMap<OwnerForCreationViewModel, Owner>();
+            CreateMap<OwnerForUpdateViewModel, Owner>();
         }
     }
 }

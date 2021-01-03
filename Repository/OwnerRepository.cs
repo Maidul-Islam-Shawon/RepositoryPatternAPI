@@ -17,11 +17,6 @@ namespace Repository
         {
         }
 
-        public void CreateOwner(Owner owner)
-        {
-            Create(owner);
-        }
-
         public async Task<IEnumerable<Owner>> GetAllOwnersAsync()
         {
             return await FindAll().OrderBy(m => m.Name).ToListAsync();
@@ -30,6 +25,21 @@ namespace Repository
         public async Task<Owner> GetOwnerByIdAsync(Guid id)
         {
             return await FindByCondition(m => m.OwnerId.Equals(id)).FirstOrDefaultAsync();
+        }
+
+        public void CreateOwner(Owner owner)
+        {
+            Create(owner);
+        }
+
+        public void updateOwner(Owner owner)
+        {
+            Update(owner);
+        }
+
+        public void DeleteOwner(Owner owner)
+        {
+            Delete(owner);
         }
     }
 }
